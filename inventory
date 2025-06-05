@@ -1,3 +1,13 @@
-server3@121.41.24.202
+[web_servers]
+server1@121.43.225.241 
 server2@121.41.238.220
-server1@121.43.225.241
+
+[db_servers]
+server3@121.41.24.202
+
+[file_servers]
+server4@120.27.196.148
+ 
+[cengjunyu]
+cengjunyu@172.29.171.136 
+
